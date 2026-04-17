@@ -1,0 +1,11 @@
+show_id,service,genre,num_seasons,episode_count,panel_status,current_external_hype_10
+S001,Netflix,Drama,2,72,tracked,0
+S002,Netflix,Drama,2,75,buzz_only,8.35
+S003,HBO,Comedy,1,48,tracked,0
+S004,HBO,Comedy,2,68,buzz_only,8.05
+S005,Netflix,Drama,3,105,tracked,0
+S006,Netflix,Drama,2,80,tracked,0
+S007,Apple TV,Drama,1,45,buzz_only,7.85
+S008,Apple TV,Comedy,2,70,tracked,0
+S009,Netflix,Drama,1,42,buzz_only,8.15
+S010,Netflix,Comedy,3,110,buzz_only,8.45

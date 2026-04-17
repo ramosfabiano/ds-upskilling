@@ -1,0 +1,15 @@
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    env_file:
+      - .env
+    volumes:
+      - .:/home/jupyter/work:rw
+      - ./notebooks:/home/jupyter/work/notebooks:rw
+    working_dir: /home/jupyter/work
+    environment:
+      PYTHONPATH: /home/jupyter/work/src

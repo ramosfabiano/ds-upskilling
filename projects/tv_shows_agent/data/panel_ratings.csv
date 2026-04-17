@@ -1,0 +1,6 @@
+panel_rating_id,show_id,panel_avg_score_10,window_start,window_end,cohort
+PR1,S001,8.35,2023-01-01,2025-12-31,P_alpha
+PR2,S003,7.65,2024-03-01,2026-02-28,P_beta
+PR3,S005,8.85,2022-06-01,2025-05-31,P_gamma
+PR4,S006,8.15,2024-01-15,2027-01-14,P_delta
+PR5,S008,8.45,2023-09-01,2025-08-31,P_eps
